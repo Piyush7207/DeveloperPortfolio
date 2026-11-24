@@ -1,0 +1,65 @@
+===== HOME DIRECTORY CONTENTS =====
+total 35545
+drwxr-xr-x 1 lokes 197611        0 Nov 24 23:27 ./
+drwxr-xr-x 1 lokes 197611        0 May 29  2025 ../
+drwxr-xr-x 1 lokes 197611        0 Oct 29 10:01 .antigravity-ide/
+-rw-r--r-- 1 lokes 197611     7368 Nov 24 23:26 .bash_history
+drwxr-xr-x 1 lokes 197611        0 Oct  4 15:14 .copilot/
+drwxr-xr-x 1 lokes 197611        0 Oct 29 18:43 .gemini/
+-rw-r--r-- 1 lokes 197611       53 Nov 12 17:32 .git-for-windows-updater
+-rw-r--r-- 1 lokes 197611      315 Nov 24 23:27 .gitconfig
+-rw-r--r-- 1 lokes 197611       26 Nov 24 23:27 .lesshst
+-rw-r--r-- 1 lokes 197611      202 Nov 11 19:40 .python_history
+drwxr-xr-x 1 lokes 197611        0 Sep 15 12:17 .vscode/
+drwxr-xr-x 1 lokes 197611        0 Aug 28 15:44 .vscode-shared/
+drwxr-xr-x 1 lokes 197611        0 Jul 28  2025 AppData/
+lrwxrwxrwx 1 lokes 197611       30 Jan  5  2025 Application Data -> /c/Users/lokes/AppData/Roaming/
+drwxr-xr-x 1 lokes 197611        0 Jan  5  2025 Contacts/
+lrwxrwxrwx 1 lokes 197611       58 Jan  5  2025 Cookies -> /c/Users/lokes/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 lokes 197611        0 Jun  8 11:46 CrossDevice/
+drwxr-xr-x 1 lokes 197611        0 Nov 24 23:36 Desktop/
+drwxr-xr-x 1 lokes 197611        0 Nov 23 11:28 DeveloperPortfolio/
+drwxr-xr-x 1 lokes 197611        0 Nov 23 11:47 DeveloperPortfolio_Backups/
+drwxr-xr-x 1 lokes 197611        0 Jul 15 16:12 Documents/
+drwxr-xr-x 1 lokes 197611        0 Nov 23 15:04 Downloads/
+drwxr-xr-x 1 lokes 197611        0 Jan  5  2025 Favorites/
+drwxr-xr-x 1 lokes 197611        0 Apr  8  2026 IntelGraphicsProfiles/
+drwxr-xr-x 1 lokes 197611        0 Jan  5  2025 Links/
+lrwxrwxrwx 1 lokes 197611       28 Jan  5  2025 Local Settings -> /c/Users/lokes/AppData/Local/
+drwxr-xr-x 1 lokes 197611        0 Nov 10  2022 Microsoft/
+drwxr-xr-x 1 lokes 197611        0 Jan  5  2025 Music/
+lrwxrwxrwx 1 lokes 197611       24 Jan  5  2025 My Documents -> /c/Users/lokes/Documents/
+-rw-r--r-- 1 lokes 197611 25952256 Nov 22 22:36 NTUSER.DAT
+-rw-r--r-- 1 lokes 197611    73728 Oct 18 05:05 NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf
+-rw-r--r-- 1 lokes 197611     4096 Nov 22 22:36 NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TM.blf.cnpf
+-rw-r--r-- 1 lokes 197611   561152 Oct 18 05:05 NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 lokes 197611     4096 Nov 22 22:36 NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000001.regtrans-ms.cnpf
+-rw-r--r-- 1 lokes 197611   561152 Oct 18 05:05 NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 lokes 197611     4096 Nov 22 22:36 NTUSER.DAT{2ad838bc-efea-11ee-a54d-000d3a94eaa1}.TMContainer00000000000000000002.regtrans-ms.cnpf
+lrwxrwxrwx 1 lokes 197611       66 Jan  5  2025 NetHood -> /c/Users/lokes/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+drwxr-xr-x 1 lokes 197611        0 Jun 13 09:58 OneDrive/
+drwxr-xr-x 1 lokes 197611        0 Oct  9 23:22 Pictures/
+drwxr-xr-x 1 lokes 197611        0 Nov  7 10:45 Postman/
+lrwxrwxrwx 1 lokes 197611       66 Jan  5  2025 PrintHood -> /c/Users/lokes/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 lokes 197611       55 Jan  5  2025 Recent -> /c/Users/lokes/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 lokes 197611        0 Jan  5  2025 Saved Games/
+drwxr-xr-x 1 lokes 197611        0 Jan  5  2025 Searches/
+lrwxrwxrwx 1 lokes 197611       55 Jan  5  2025 SendTo -> /c/Users/lokes/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 lokes 197611       59 Jan  5  2025 Start Menu -> /c/Users/lokes/AppData/Roaming/Microsoft/Windows/Start Menu/
+lrwxrwxrwx 1 lokes 197611       58 Jan  5  2025 Templates -> /c/Users/lokes/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 lokes 197611        0 Sep  2 19:03 Videos/
+drwxr-xr-x 1 lokes 197611        0 Oct 26 18:44 cse103_lab/
+drwxr-xr-x 1 lokes 197611        0 Nov 22 22:03 developer-portfolio/
+-rw-r--r-- 1 lokes 197611  2359296 Jan  5  2025 ntuser.dat.LOG1
+-rw-r--r-- 1 lokes 197611  6656000 Jan  5  2025 ntuser.dat.LOG2
+-rw-r--r-- 1 lokes 197611       20 Jan  5  2025 ntuser.ini
+===== RUNNING PROCESSES =====
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      147       1     147      17476  ?         197611 23:26:41 /usr/bin/mintty
+      429     148     428      15132  pty0      197611 00:16:06 /usr/bin/head
+      428     148     428       9408  pty0      197611 00:16:06 /usr/bin/ps
+      148     147     148      15464  pty0      197611 23:26:41 /usr/bin/bash
+===== MEMORY USAGE =====
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       549Mi       3.1Gi       4.3Mi       177Mi       3.2Gi
+Swap:          1.0Gi          0B       1.0Gi
