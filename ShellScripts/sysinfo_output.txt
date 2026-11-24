@@ -1,0 +1,18 @@
+========================================
+       SYSTEM INFORMATION REPORT
+========================================
+Name: Piyush Sharma
+Roll Number: 2601730060
+Date: 
+
+----------- CPU INFORMATION -----------
+CPU Model: 
+Number of CPU threads: 
+
+----------- MEMORY INFORMATION -----------
+
+----------- TOP 3 PROCESSES BY CPU -----------
+
+========================================
+Report generated successfully.
+========================================
